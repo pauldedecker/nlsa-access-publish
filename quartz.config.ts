@@ -1,26 +1,29 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+console.log("✅ QUARTZ CONFIG FILE IS BEING LOADED")
+
 
 /**
  * Quartz 4 Configuration
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
-const config: QuartzConfig = {
-  configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
-    enableSPA: true,
-    enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
-    locale: "en-US",
-    siteUrl: "https://pauldedecker.github.io",
-    baseUrl: "nlsa-access-publish",
-    outputDirectory: "docs",
-    ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified",
+ const config: QuartzConfig = {
+   siteUrl: "https://pauldedecker.github.io",
+   baseUrl: "nlsa-access-publish",
+   outputDirectory: "docs",
+
+   configuration: {
+     pageTitle: "Quartz 4",
+     pageTitleSuffix: "",
+     enableSPA: true,
+     enablePopovers: true,
+     analytics: {
+       provider: "plausible",
+     },
+     locale: "en-US",
+     ignorePatterns: ["private", "templates", ".obsidian"],
+     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
