@@ -7,9 +7,9 @@ The project includes:
 - A province-wide survey on access to services  
 
 - Community meetings and workshops in multiple regions  
-    
+
 - Interviews with stakeholders  
-        
+
 - Knowledge-mobilization through public events and multimedia outreach (the “Some Stutter, Luh!” podcast)  
 
 The team is inviting collaborators and community partners from across Memorial and beyond, including faculty, students, service providers, advocacy organizations, and policy professionals who are interested in accessible communication, disability justice, and community-engaged research.
