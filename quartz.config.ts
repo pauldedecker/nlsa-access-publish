@@ -18,6 +18,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     siteUrl: "https://pauldedecker.github.io",
     baseUrl: "nlsa-access-publish",
+    outputDirectory: "docs",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
