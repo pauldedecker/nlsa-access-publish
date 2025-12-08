@@ -14,28 +14,10 @@ stakeholder:
   - Stamily
 sensitivity: low
 tags:
-  - 
-  - 
+  -
+  -
 publish: "true"
 ---
-
-# Overview
-(1–3 paragraphs: what is this thing?)
-
-# Key Relationships (use real wikilinks here)
-- 
-- 
-- 
-
-# Role in Accessibility / Community / Teaching (if relevant)
-(Short narrative note on why this matters.)
-
-# Notes / Observations
-(Freeform.)
-
-# Sources (if applicable)
-- 
-- 
 
 We, the undersigned, declare that people who stutter should be accepted as having a stutter. We may, or may not, choose to find support to sound fluent or stutter less. That is our right. It is not reasonable to expect or insist that we sound fluent. We stutter. That is how we talk.  
  
