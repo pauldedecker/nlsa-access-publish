@@ -1,5 +1,5 @@
 ---
-title: "NLSA Research & Accessibility"
+title: "The Accessibility Project"
 publish: true
 ---
 
