@@ -5,7 +5,7 @@ tags:
 ---
 
 # Community Workshops
-
+ 
 Community workshops are a central part of the Accessibility Project. These workshops create shared spaces for people who stutter (PWS), families, educators, clinicians, and community partners to come together, learn from one another, and collectively imagine more communicatively accessible communities in Newfoundland and Labrador.
 
 Rather than treating accessibility as a technical problem to be solved by experts alone, the workshops are designed as **collaborative spaces** where lived experience, professional knowledge, and community insight all carry equal weight.
