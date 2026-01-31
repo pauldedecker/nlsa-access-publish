@@ -5,6 +5,8 @@ publish: true
  
 # An Invitation to Join
 
+![MUN Logo](MUN-Logo-RGB-large.jpg "MUN Logo")
+
 Researchers in the [Department of Linguistics](https://www.mun.ca/linguistics/) at Memorial University of Newfoundland, in partnership with the [Newfoundland and Labrador Stuttering Association](http://nlstuttering.ca), are launching a new province-wide initiative called Accessibility and Inclusion for People Who Stutter. It focuses on community engagement, service accessibility, and collaborative research.
 
 The project seeks to better understand how social, educational, and health-care systems in Newfoundland and Labrador support—or unintentionally create barriers - across the lifespans of people who stutter. The work brings together researchers, people who stutter, family members, educators, speech-language pathologists, health professionals, community organizations, and policy stakeholders to build a shared community of practice around communication accessibility.
