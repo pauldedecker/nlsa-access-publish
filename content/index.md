@@ -3,7 +3,7 @@ title: "The Accessibility and Inclusion Project"
 publish: true
 ---
  
-# An Invitation to Join the Accessibility and Inclusion Project
+# An Invitation to Join
 
 Researchers in the Department of Linguistics at Memorial University of Newfoundland, in partnership with the Newfoundland and Labrador Stuttering Association, are launching a new province-wide Accessibility to Services for People Who Stutter Project focused on community engagement, service accessibility, and collaborative research.
 
