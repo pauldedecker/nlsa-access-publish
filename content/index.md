@@ -5,7 +5,7 @@ publish: true
  
 # An Invitation to Join
 
-![MUN Logo](LOGO-MUN-Logo-RGB-large.jpg "MUN Logo")
+![MUN Logo](LOGO-MUN_standard__logo_RGB.png "MUN Logo")
 
 ![NLSA Logo](LOGO-NLSA-colour-transparent.png "NLSA Logo")
 
