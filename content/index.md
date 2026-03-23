@@ -5,9 +5,12 @@ publish: true
  
 # An Invitation to Join
 
-![MUN Logo](LOGO-MUN-RGB-large.jpg "MUN Logo"){width=20%}
-![NLSA Logo](LOGO-NLSA-colour-transparent.png "NLSA Logo"){width=20%}
-![GOVNL Logo](LOGO-Government-NL.png "GOVNL Logo"){width=20%}
+![MUN Logo](LOGO-MUN-Logo-RGB-large.jpg "MUN Logo")
+
+![NLSA Logo](LOGO-NLSA-colour-transparent.png "NLSA Logo")
+
+![GOVNL Logo](LOGO-Government-NL.png "GOVNL Logo")
+
 
 Researchers in the [Department of Linguistics](https://www.mun.ca/linguistics/) at Memorial University of Newfoundland, in partnership with the [Newfoundland and Labrador Stuttering Association](http://nlstuttering.ca), are launching a new province-wide initiative called Accessibility and Inclusion for People Who Stutter. It focuses on community engagement, service accessibility, and collaborative research.
 
